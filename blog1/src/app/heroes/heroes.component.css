@@ -1,4 +1,12 @@
 .contenedor1{
     color: blueviolet;
     display: block;
+    background-color: rgb(32, 0, 23);
+}
+.selected{
+    background-color: aqua;
+}
+.contenedor2{
+    border: solid  4px rgb(1, 123, 238);
+   border-radius: 8%;
 }
